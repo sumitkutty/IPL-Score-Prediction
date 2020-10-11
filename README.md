@@ -16,8 +16,8 @@ An exploration of an interesting dataset, which contains explicit records of hun
 
 # Code and References
 
-** Python Version:** 3.7
+**Python Version:** 3.7
 
-** Packages: ** numpy, pandas, matplotlib, seaborn, sklearn
+**Packages:** numpy, pandas, matplotlib, seaborn, sklearn
 
 
